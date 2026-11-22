@@ -11,3 +11,6 @@ Projects per week, even if it's just one line at a time
  - Snippet/Prototype Library
  - Kanban Board App
  - Voice recognition commands (no-AI)
+ - visual graph editor. Imagine Obsidian but with code and neural linkage
+ - file ecosystem
+ 
